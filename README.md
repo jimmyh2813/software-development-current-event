@@ -6,7 +6,7 @@
 ---
 
 ## 👥 Team Members & Roles
-* **Hung-Hao Huang (Jimmy) (Student #116975251)** - *Project Lead & Researcher*
+* **Hung-Hao Huang  (Student #116975251)** - *Project Lead & Researcher*
   * Responsible for repository management, tracking project issues, conducting literature research, and presenting slides 1–6 (Introduction and Trend Background).
 * **Michael Ghebrezghi (Student #ENTER_MICHAELS_ID)** - *Technical Lead & Video Editor*
   * Responsible for slide formatting, gathering technical IDE screen-recordings, presenting slides 7–12 (Technical Evaluation and Cybersecurity), and compiling the final video submission.
