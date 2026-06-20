@@ -1,32 +1,20 @@
-# 🚀 CEP Software Development Current Event: The Rise of AI Agents & The Engineer's Transformation
+# Software Development Current Event Project 🚀
 
-### 📺 Presentation Video
-[![Watch the Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
+## 📌 Project Overview
+This repository contains the research, presentation, and authoritative sources for our Software Development Current Event Project. We explore the paradigm shift from passive AI autocomplete tools to fully autonomous AI coding agents in 2026.
 
----
+## 🎥 Presentation Video
+**Watch the full presentation here:** 
+👉 [https://youtu.be/OzYcqXCHcKw](https://youtu.be/OzYcqXCHcKw)
 
-## 👥 Team Members & Roles
-* **Hung-Hao Huang  (Student #116975251)** - *Project Lead & Researcher*
-  * Responsible for repository management, tracking project issues, conducting literature research, and presenting slides 1–6 (Introduction and Trend Background).
-* **Michael Ghebrezghi (Student #ENTER_MICHAELS_ID)** - *Technical Lead & Video Editor*
-  * Responsible for slide formatting, gathering technical IDE screen-recordings, presenting slides 7–12 (Technical Evaluation and Cybersecurity), and compiling the final video submission.
+## 📊 Presentation Slides
+**View the Google Slides deck here:** 
+👉 [Google Slides Link](https://docs.google.com/presentation/d/1NMkX63qw9aZvhJii5yFEMf97ETWwxPSPj-ikIOKxiKY/edit?usp=sharing)
 
----
+## 👥 Team Members
+* **Hung-Hao Huang (Jimmy)** 
+* **Michael Ghebrezghi**
 
-## 📌 Topic Summary
-This project investigates the 2026 state of autonomous AI Agents (such as GitHub Copilot Workspace, Devin, and Claude Code) within modern software engineering. We analyze how AI utility has shifted from basic single-line code auto-completion to fully decoupled "Agentic Workflows" capable of autonomously parsing GitHub issues, creating feature branches, and resolving multi-file bugs. Furthermore, we address the strategic upskilling required for human developers adapting to these automated workflows.
-
----
-
-## 📂 Repository Structure
-* `/research` - Raw literature notes, authoritative source links, and background summaries.
-* `/script` - Comprehensive 3-minute presentation voiceover scripts and exact timing allocations.
-* `/slides` - Core presentation slide assets and visual materials.
-
----
-
-## 🛠️ GitHub Workflow & Collaboration Practices
-To emulate professional engineering teams, our group strictly adheres to standard Git collaboration guidelines:
-1. **Task Tracking:** Every unique deliverable is defined, assigned, and tracked via **GitHub Issues**.
-2. **Branch Management:** All updates must be developed on localized `feature/` branches. Direct push commits to the `main` branch are restricted.
-3. **Peer Review:** Branch convergence is handled via **Pull Requests (PRs)** requiring code/documentation reviews and team sign-offs prior to merging.
+## 💻 Technical Deliverables
+* **Research Documentation:** Located in `research/sources.md`, detailing industry shifts, tools (Devin, Claude Code, Copilot Workspace), and workflow automation.
+* **Git Workflow:** Demonstrated professional use of Branching, Commits, and Pull Requests (`Closes #1`) to integrate research into the main branch.
